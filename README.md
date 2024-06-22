@@ -1,1 +1,3 @@
 # calculator-sync
+
+README modified
